@@ -39,8 +39,3 @@ public class Cuenta {
         System.out.println("Meses que necesito " + c2.titular + ": " + meses2);
     }
 }
-
-
-
-
-![Salida del programa de cuentas](img/cuentas.png)
