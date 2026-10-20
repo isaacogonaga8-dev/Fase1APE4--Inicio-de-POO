@@ -59,6 +59,5 @@ public class Estudiante {
 }
 
 
-![Salida del programa](img/salida.png)
 
 
