@@ -59,16 +59,6 @@ public class Estudiante {
 }
 
 
-```text
-run:
-Ana Perez : 8,43 - Aprobado
-Carlos Gomez : 5,90 - Supletorio
-Maria Lopez : 4,10 - Reprobado
-Juan Torres : 7,50 - Aprobado
-Lucia Ramirez : 5,60 - Supletorio
-
-Numero total de estudiantes que aprobaron: 2
-BUILD SUCCESSFUL (total time: 0 seconds)
-```
+![Salida del programa](img/salida.png)
 
 
