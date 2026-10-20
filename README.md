@@ -1,4 +1,4 @@
-![Salida del programa de estudiantes](img/salida.png)
+![Salida del programa](img/salida.png)
 
 ![Salida del programa de inventario](img/inventario.png)
 
