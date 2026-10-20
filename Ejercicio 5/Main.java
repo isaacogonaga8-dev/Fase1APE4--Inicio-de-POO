@@ -73,7 +73,3 @@ public class Biblioteca {
         System.out.println("\nLibros que quedan disponibles: " + librosDisponiblesCount);
     }
 }
-
-
-
-![Salida del programa de biblioteca](img/biblioteca.png)
