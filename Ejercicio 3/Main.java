@@ -43,7 +43,3 @@ public class Mascota {
     }
 }
 
-
-
-
-![Salida del programa de mascotas](img/mascotas.png)
