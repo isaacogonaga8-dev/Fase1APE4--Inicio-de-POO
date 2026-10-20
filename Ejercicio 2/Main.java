@@ -64,7 +64,3 @@ public class Producto {
     }
 }
 
-
-
-
-![Salida del programa de inventario](img/inventario.png)
